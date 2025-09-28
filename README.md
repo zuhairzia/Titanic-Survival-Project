@@ -1,10 +1,12 @@
+Data Exploration![1601702195306](https://github.com/user-attachments/assets/428b9e6f-bed5-48c8-9e0a-bad9a1d092ac)
+
 🚢 Titanic Survival Prediction
 📌 Project Overview
 This project aims to predict whether a passenger survived the Titanic disaster or not, based on features like age, gender, ticket class, and fare.
 
 The workflow includes:
 
-Data Exploration
+
 Data Cleaning & Preprocessing
 Feature Engineering
 Model Training
