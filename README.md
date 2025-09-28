@@ -1,63 +1,68 @@
-# 🚢 Titanic Survival Prediction  
+🚢 Titanic Survival Prediction
+📌 Overview
 
-### 📌 Overview  
-This project predicts **Titanic passenger survival** based on age, gender, class, and other features.  
-It is built using **Python, Pandas, Scikit-learn, and Jupyter Notebook**.  
+This project predicts whether a passenger survived the Titanic disaster based on features like age, gender, and class.
+It is built using Python, Pandas, Scikit-learn, and Jupyter Notebook.
 
----
+🛠 Tools & Technologies
 
-### 🛠 Tools & Technologies  
-- Python  
-- Pandas & NumPy  
-- Matplotlib & Seaborn  
-- Scikit-learn  
-- Jupyter Notebook  
-- Joblib  
-- Streamlit (for deployment)  
+Python
 
----
+Pandas & NumPy
 
-### 📂 Project Structure  
+Matplotlib & Seaborn
 
-├── app.py # Streamlit app
-├── Titanic_Survival_Project.ipynb # Jupyter Notebook
-├── train.csv # Dataset
-├── requirements.txt # Dependencies
-├── .gitignore # Ignored files
-└── model/ # Saved ML model
+Scikit-learn
 
+Jupyter Notebook
 
+Joblib
 
----
+Streamlit
 
-### 📊 Model Workflow  
-1. Data Cleaning & Preprocessing  
-2. Exploratory Data Analysis (EDA)  
-3. Feature Engineering  
-4. Model Training (Logistic Regression, Decision Tree, etc.)  
-5. Model Evaluation  
-6. Deployment with Streamlit  
+📂 Project Structure
+├── app.py                      # Streamlit app for deployment
+├── Titanic_Survival_Project.ipynb  # Jupyter Notebook (EDA & Model Training)
+├── train.csv                   # Dataset
+├── requirements.txt            # Dependencies
+├── .gitignore                  # Ignored files
+└── model/                      # Saved ML model & scaler
 
----
+⚙️ Model Workflow
 
-### 🚀 How to Run  
-```bash
-git clone https://github.com/zuhairzia/Titanic-Survival-Project.git
+Data Cleaning & Preprocessing
+
+Exploratory Data Analysis (EDA)
+
+Feature Engineering
+
+Model Training (Logistic Regression, Decision Tree, etc.)
+
+Model Evaluation
+
+Deployment with Streamlit
+
+🚀 How to Run
+
+Clone the repository and install dependencies:
+
+git clone https://github.com/your-username/Titanic-Survival-Project.git
 cd Titanic-Survival-Project
 pip install -r requirements.txt
-streamlit run app.py
 
+
+Run the Streamlit app:
+
+streamlit run app.py
 
 📸 Screenshots
 
-(Add your project screenshots here – model outputs, Streamlit app, graphs)
+
 
 📧 Support
 
-If you face any issues, feel free to connect:
+For questions or suggestions, feel free to connect:
 
-LinkedIn
+📩 Email: zuhairzia1@gmail.com
 
-Email
-
-
+💼 LinkedIn: www.linkedin.com/in/zuhairzia
