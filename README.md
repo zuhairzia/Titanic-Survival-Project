@@ -49,7 +49,9 @@ It is built using **Python, Pandas, Scikit-learn, and Jupyter Notebook**.
 Clone the repository and install dependencies:  
 
 git clone https://github.com/your-username/Titanic-Survival-Project.git
+
 cd Titanic-Survival-Project
+
 pip install -r requirements.txt
 
 Run the Streamlit app:
@@ -58,18 +60,22 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
+## Accuracy Comparison of Machine Learning Models for Titanic Survival Prediction
 
-(Add project screenshots here – graphs, model results, Streamlit app UI)
+<img width="700" height="560" alt="output" src="https://github.com/user-attachments/assets/057dbea8-6c6f-489b-af05-1adc41ca3edf" />
+
+
+## Titanic Survival Prediction App (Machine Learning Project)
+
+<img width="1358" height="606" alt="Screenshot 2025-09-29 041929" src="https://github.com/user-attachments/assets/72e1c538-69f7-4ce3-bddb-9bb85ee721e4" />
+
 
 ---
 
-📧 Support
+## 📧 Support
 
 For questions or suggestions, feel free to connect:
 
 📩 Email: zuhairzia1@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/zuhairzia
 
 💼 LinkedIn: www.linkedin.com/in/zuhairzia
