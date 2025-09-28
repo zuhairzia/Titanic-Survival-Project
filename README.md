@@ -1,4 +1,5 @@
-Data Exploration![1601702195306](https://github.com/user-attachments/assets/428b9e6f-bed5-48c8-9e0a-bad9a1d092ac)
+Titanic Survival Project
+![1601702195306](https://github.com/user-attachments/assets/428b9e6f-bed5-48c8-9e0a-bad9a1d092ac)
 
 🚢 Titanic Survival Prediction
 📌 Project Overview
