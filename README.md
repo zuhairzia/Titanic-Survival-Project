@@ -57,13 +57,12 @@ streamlit run app.py
 
 ---
 
-##📧 Support
+📧 Support
 
 For questions or suggestions, feel free to connect:
 
 📩 Email: zuhairzia1@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/zuhairzia
-📩 Email: zuhairzia1@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/zuhairzia
