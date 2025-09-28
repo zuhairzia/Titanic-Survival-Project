@@ -1,5 +1,7 @@
 # 🚢 Titanic Survival Prediction  
 
+![1601702195306](https://github.com/user-attachments/assets/428b9e6f-bed5-48c8-9e0a-bad9a1d092ac)
+
 ## 📌 Overview  
 This project predicts **Titanic passenger survival** based on age, gender, class, and other features.  
 It is built using **Python, Pandas, Scikit-learn, and Jupyter Notebook**.  
@@ -19,10 +21,15 @@ It is built using **Python, Pandas, Scikit-learn, and Jupyter Notebook**.
 
 ## 📂 Project Structure  
 ├── app.py # Streamlit app for deployment
+
 ├── Titanic_Survival_Project.ipynb # Jupyter Notebook (EDA & Model Training)
+
 ├── train.csv # Dataset
+
 ├── requirements.txt # Dependencies
+
 ├── .gitignore # Ignored files
+
 └── model/ # Saved ML model & scaler
 
 
