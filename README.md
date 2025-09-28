@@ -48,8 +48,9 @@ pip install -r requirements.txt
 streamlit run app.py
 📸 Screenshots
 
+---
 
-📧 Support
+### 📧 Support
 If you face any issues, feel free to connect:
 
 LinkedIn:www.linkedin.com/in/zuhairzia
