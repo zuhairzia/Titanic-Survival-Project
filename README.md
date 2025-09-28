@@ -27,8 +27,6 @@ It is built using **Python, Pandas, Scikit-learn, and Jupyter Notebook**.
 ├── .gitignore # Ignored files
 └── model/ # Saved ML model
 
-yaml
-Copy code
 
 ---
 
@@ -49,11 +47,11 @@ cd Titanic-Survival-Project
 pip install -r requirements.txt
 streamlit run app.py
 📸 Screenshots
-(Add your project screenshots here – model outputs, Streamlit app, graphs)
+
 
 📧 Support
 If you face any issues, feel free to connect:
 
-LinkedIn
+LinkedIn:www.linkedin.com/in/zuhairzia
 
-Email
+Email:zuhairzia1@gmail.com
