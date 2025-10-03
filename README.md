@@ -46,17 +46,76 @@ It is built using **Python, Pandas, Scikit-learn, and Jupyter Notebook**.
 ---
 
 ## 🚀 How to Run  
-Clone the repository and install dependencies:  
+**Clone the repository and install requirements:**
 
-git clone https://github.com/your-username/Titanic-Survival-Project.git
+`git clone https://github.com/your-username/Stock-Market-Prediction.git`
 
-cd Titanic-Survival-Project
+**cd Stock-Market-Prediction**
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
-Run the Streamlit app:
+**Run the Jupyter Notebook:**
 
-streamlit run app.py
+`jupyter notebook stock_lstm.ipynb`
+
+**Run the Streamlit app:**
+
+*This Command Launch my Python script as a web app in the browser*
+
+`streamlit run app.py`          
+
+---
+
+### **Create New virtual environment**
+
+**🔹 Step 1: Open terminal (Command Prompt / PowerShell / Git Bash / VS Code Terminal)**
+
+**Navigate to your project folder:**
+
+`cd path\to\your\project`
+
+**🔹 Step 2: Create the virtual environment**
+
+
+`python -m venv .venv`
+
+
+`python -m venv → creates a virtual environment`
+
+.venv → the folder name (you can also name it env, but .venv is common for GitHub projects)
+
+**🔹 Step 3: Activate the environment**
+
+**On Windows (CMD)**
+
+
+`.venv\Scripts\activate`
+
+**On Windows (PowerShell)**
+
+`.venv\Scripts\Activate.ps1`
+
+**On Mac/Linux**
+
+`source .venv/bin/activate`
+
+**On Windows (PowerShell)**
+
+
+`.venv\Scripts\Activate.ps1`
+
+**🔹 Step 4: Install required libraries**
+
+Run this inside your project:
+
+`pip install streamlit pandas scikit-learn joblib`
+
+**🔹 5. Run your Streamlit app**
+
+In the terminal (inside your project folder):
+
+`streamlit run segmentation.py`
+
 
 ---
 
